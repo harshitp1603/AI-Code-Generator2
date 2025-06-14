@@ -2,14 +2,14 @@
 
 An AI-powered code generation web application that converts natural language descriptions into executable code snippets using **Python**, **Flask**, and **NLP**. The project allows users to input simple queries and get code snippets in various programming languages.
 
-## 🛠️ Technologies & Tools Used
+## Technologies & Tools Used
 
 - **Python**: The primary programming language for backend development, responsible for handling the core logic and processing.
 - **Flask**: A lightweight web framework used to build the web application, facilitating the creation of APIs and handling HTTP requests.
 - **HTML/CSS/JavaScript**: Technologies employed for frontend development, creating the user interface and ensuring interactivity.
 - **Natural Language Processing (NLP)**: Used for processing and understanding natural language inputs, enabling the generation of code based on user queries.
 
-## 📂 Project Structure
+## Project Structure
 
 - **`code_generator/`**: Contains modules responsible for generating code snippets based on user input.
 - **`compiler/`**: Handles the compilation and execution of generated code snippets.
@@ -21,13 +21,13 @@ An AI-powered code generation web application that converts natural language des
 - **`style.css`**: Defines the styling and layout of the frontend interface.
 - **`script.js`**: Contains JavaScript code for frontend interactivity and asynchronous operations.
 
-## ⚙️ Key Features
+## Key Features
 
 - **Code Generation**: Converts natural language descriptions into functional code snippets across various programming languages.
 - **Code Compilation**: Compiles and executes generated code snippets, providing real-time feedback to users.
 - **User Interface**: A web-based interface that allows users to input natural language queries and view generated code and execution results.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
