@@ -33,15 +33,9 @@ An AI-powered code generation web application that converts natural language des
    ```bash
    git clone https://github.com/harshitp1603/AI-Code-Generator2.git
 2. Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 3. Run the application:
-
-bash
-Copy
-Edit
-python main.py
+   ```bash
+   python main.py
 4. Access the application in your browser at http://localhost:5000.
